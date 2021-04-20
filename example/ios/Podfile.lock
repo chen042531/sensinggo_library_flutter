@@ -1,0 +1,35 @@
+PODS:
+  - Flutter (1.0.0)
+  - NMSSH (2.3.1)
+  - "permission_handler (5.0.1+1)":
+    - Flutter
+  - sensingGo_flutter (0.0.1):
+    - Flutter
+    - NMSSH
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - sensingGo_flutter (from `.symlinks/plugins/sensingGo_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - NMSSH
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  sensingGo_flutter:
+    :path: ".symlinks/plugins/sensingGo_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  NMSSH: cd689ae535a1581a6dd9fd4600ff71247df510a6
+  permission_handler: eac8e15b4a1a3fba55b761d19f3f4e6b005d15b6
+  sensingGo_flutter: c8328b29f3f5f9aef2de7ba40cb2eed4cd49390d
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.0
